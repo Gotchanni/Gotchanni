@@ -12,15 +12,8 @@ Undergraduate student at Zhejiang University, College of Computer Science and Te
 
 Research Assistant at [ZJU-REAL](https://github.com/ZJU-REAL), supervised by [Prof. Yongliang Shen](https://scholar.google.com/citations?user=UT3NzFAAAAAJ&hl=zh-CN), currently focusing on GUI Agents, multimodal learning, agentic RL, and real-device deployment.
 
-Research Intern at [Ant Group](https://www.antgroup.com/).
+Research Intern at [Ant Group](https://www.antgroup.com/) currently.
 
-## Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) | A framework to build, evaluate, and deploy GUI Agents. |
-| [Awesome-GUI-Agents](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | A curated collection of resources for GUI Agent research. |
-| [UI-Zoomer](https://github.com/ZJU-REAL/UI-Zoomer) | Tools for understanding and interacting with user interfaces. |
 
 ## Contributions
 
