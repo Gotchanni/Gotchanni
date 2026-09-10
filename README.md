@@ -8,12 +8,13 @@
 
 ## About Me
 
-Undergraduate student at Zhejiang University, College of Computer Science and Technology.
+Undergraduate student at Zhejiang University, College of Computer Science and Technology. 
 
 Research Assistant at [ZJU-REAL](https://github.com/ZJU-REAL), supervised by [Prof. Yongliang Shen](https://scholar.google.com/citations?user=UT3NzFAAAAAJ&hl=zh-CN), currently focusing on GUI Agents, multimodal learning, agentic RL, and real-device deployment.
 
 Research Intern at [Ant Group](https://www.antgroup.com/) currently.
 
+If you are interested in my work or seeking collaboration, feel free to contact me via email: 3230105692@zju.edu.cn
 
 ## Contributions
 
